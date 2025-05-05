@@ -1,5 +1,5 @@
 # Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders
-Code for the framework in **Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders** 
+Code for the framework in **Aggregation of Dependent Expert Distributions in Multimodal Variational Autoencoders** [paper](https://arxiv.org/abs/2505.01134) 
 
 ## Requirements
 The code for the Consensus of Dependent Experts with Variational Autoencoders (CoDE-VAE) model is developed in TensorFlow. We suggest to use `Docker` to run the code. Run the command `docker pull rogelioandrade/coevae:v3` to get an image with all dependencies needed or specify `image: "rogelioandrade/coevae:v3"` in `Kubernetes`.
